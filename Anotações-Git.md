@@ -62,6 +62,9 @@ Caso eu tenha feito um commit, porém há alterações que eu ainda precisava fa
 
 	git push
 
+### Puxar alterações do repositório GITHUB :
+
+	git pull
 
 ### Ver o que foi alterado no arquivo desde o último commit :
 	
@@ -149,7 +152,7 @@ Caso eu faça alterações em um arquivo no branch "teste", eu dê um commit, e 
 
 	
 	<<<<<<< HEAD
-	um teste bem gostoso
+	Teste1
 	=======
 	funtion(hazard 1234!)
 	>>>>>>> teste
